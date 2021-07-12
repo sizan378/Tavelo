@@ -1,0 +1,325 @@
+@media only screen and (max-width:
+1260px){
+    .header .menu ul{
+        margin-left: 30px;
+        font-size: 1.5vh;
+        margin-left: 10px;
+        margin-top:50px;
+    }
+    .header .menu ul li{
+        margin:5px;
+    }
+    .header .link button{
+        font-size: 1vh;
+    }
+    .background_img button{
+        font-size: 1.5vh;
+        width: 15%;
+        margin-left: 300px;
+    }
+    .heading2 .inputgroup{
+        width: 70%;
+        margin-left: 330px;
+
+    }
+    .heading2 .inputgroup input{
+        height: 25px;
+        margin:0px;
+        
+    }
+    .image_show .row .col .color p{
+        font-size:3vh;
+        margin-left: 50px;
+    }
+    .image_show .row .col .america p{
+        font-size:3vh;
+        margin-left: 50px;
+    }
+    .image_show .row .col .japan p{
+        font-size:3vh;
+        margin-left: 50px;
+    }
+    .subscribe input{
+        width: 15%;
+    }
+    
+}
+@media only screen and (max-width:
+1000px){
+    .heading2 .inputgroup{
+        width: 35%;
+        margin-left: 370px;
+
+    }
+    .heading2 .inputgroup input{
+        height: 30px;
+        margin:10px;
+        width: 60px;
+        
+    }
+    .heading2 button{
+        height: 30px;
+        width: 70px;
+        font-size: 1vh;
+        margin-left: -100px;
+        margin-top: -370px;
+
+    }
+    .image_show{
+        height: 280vh;
+    }
+    .image_show .row .col{
+        width: 70%;
+        margin-left: 100px;
+    }
+    .image_show .row .col .color p{
+        font-size:3vh;
+        margin-left: 300px;
+    }
+    .image_show .row .col .america p{
+        font-size:3vh;
+        margin-left: 50px;
+    }
+    .image_show .row .col .japan p{
+        font-size:3vh;
+        margin-left: -180px;
+    }
+    .subscribe h1{
+        font-size: 2vh;
+    }
+    .subscribe p{
+        font-size: 1.5vh;
+        width: 15%;
+    }
+    .subscribe input{
+        margin-left:500px;
+        height: 15%;
+        font-size:9px;
+    }
+    .image_gallery2 .image_row2 .image_col2{
+        width: 60%;
+        margin-left: 150px;
+    }
+    .image_gallery2{
+        height: 300vh;
+    }
+    .single_btn button{
+        margin-left:400px;
+    }
+    .single_travel .single_travel_row .single_travel_col{
+        width:15%;
+     }
+     .single_travel .single_travel_row .single_travel_col img{
+        width: 15%;
+        height: 4vh;
+        margin-left: 60px;
+    }
+    .feedback img{
+        margin-left: 350px;
+    }
+    .feedback p{
+        margin-left: 200px;
+    }
+    .Recent_trip .Recent_trip_row .Recent_trip_col{
+        width: 55%;
+     }
+     .Recent_trip .Recent_trip_row .Recent_trip_col h3{
+   
+        font-size: 2vh;
+    }
+    .Recent_trip .Recent_trip_row .Recent_trip_col p{
+        margin-left: 90px;
+        font-size: 1vh;
+    }
+    
+.Recent_trip{
+    height: 190vh;
+}
+.footer{
+    height: 150vh;
+}
+.footer .footer_row .footer_col{
+    width: 55%;
+    margin:2px;
+    margin-left: 250px;
+    height: 33vh;
+}
+.footer .footer_row .footer_col .list{
+    margin-top:80px;
+}
+.footer .footer_row .footer_col .footer_logo{
+    width: 40%;
+    height: 6vh;
+    margin-top:80px;
+}
+.footer .footer_row .footer_col h3{
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+}
+@media only screen and (max-width:
+775px){
+    .header .menu ul{
+        font-size: 1vh;
+        margin-left: 0px;
+    }
+    .header .menu ul li{
+        margin:2px;
+    }
+    .background_img h2{
+        font-size:60px;
+    }
+    .background_img button{
+        font-size: 1vh;
+        width: 25%;
+        height: 7%;
+        margin-left: 140px;
+    }
+    .paragrap h1{
+        font-size: 2.5vh;
+    }
+    .image_show .row .col .color p{
+        font-size:3vh;
+        margin-left: 200px;
+    }
+    .image_show .row .col .america p{
+        font-size:3vh;
+        margin-left: 70px;
+    }
+    .image_show .row .col .japan p{
+        font-size:3vh;
+        margin-left: -100px;
+    }
+    .subscribe h1{
+        font-size: 1.5vh;
+        margin-left: 50px;
+    }
+    .subscribe p{
+        font-size: 1vh;
+        width: 15%;
+        margin-left: 50px;
+    }
+    .subscribe input{
+        margin-left:300px;
+        height: 10%;
+        font-size:9px;
+    }
+    .subscribe .btn{
+        height: 20px;
+        font-size:10px;
+        width: 12%;
+    }
+    .paragrap2 h1{
+        font-size: 2vh;
+        margin-bottom: 2vh;
+        margin-left: -200px;
+    }
+    .paragrap2 p{
+        font-size: 1.5vh;
+        width: 50%;
+        margin-left: -70px;
+    }
+    .single_travel .single_travel_row .single_travel_col h3{
+ 
+        font-size: 1.5vh;
+    }
+    .single_travel .single_travel_row .single_travel_col p{
+        font-size: 1vh;
+    }
+    .single_travel .single_travel_row .single_travel_col img{
+        width: 12%;
+        height: 3vh;
+        margin-left: 20px;
+    }
+}
+@media only screen and (max-width:
+585px){
+    .header .menu ul{
+        font-size: 0.3vh;
+        margin-left: 0px;
+    }
+    .heading2 h2{
+        font-size: 1vh;
+    }
+    .heading2 .inputgroup{
+        width: 45%;
+        margin-left: 170px;
+
+    }
+    .heading2 .inputgroup input{
+        height: 40px;
+        margin:10px;
+        width: 60px;
+        
+    }
+    .heading2 button{
+        height: 20px;
+        width:  40px;
+        font-size: 1vh;
+        margin-left: 2px;
+
+    }
+    .image_show .row .col .color p{
+        font-size:1.3vh;
+    }
+    .image_show .row .col .america p{
+        font-size:1.3vh;
+        margin-left: 90px;
+    }
+    .image_show .row .col .japan p{
+        font-size:1.3vh;
+        margin-left: -20px;
+    }
+    .image_show .row .col .color p button{
+        font-size: 1vh;
+        width: 1.5vw;
+    }
+    .image_show .row .col .america p button{
+        font-size: 1vh;
+        width: 1.5vw;
+    }
+    .image_show .row .col .japan p button{
+        font-size: 1vh;
+        width: 1.5vw;
+    }
+    .subscribe input{
+        margin-left:120px;
+        height: 8%;
+        font-size:5px;
+    }
+    .subscribe .btn{
+        height: 15px;
+        font-size:1vh;
+        width: 10%;
+    }
+    .image_gallery2 .image_row2 .image_col2{
+        width: 60%;
+        margin-left: 150px;
+    }
+    .image_gallery2 .image_row2 .image_col2 h2{
+        font-size: 2vh;
+    }
+    .image_gallery2 .image_row2 .image_col2 p{
+        font-size: 1vh;
+    }
+    .single_btn button{
+        margin-left:200px;
+        width: 20%;
+        font-size: 1vh;
+    }
+    .footer .footer_row .footer_col{
+        margin-left: 100px;
+    }
+}
+@media only screen and (max-width:
+370px){
+    .footer .footer_row .footer_col h3{
+        font-size: 1.5vh;
+    }
+}
+@media only screen and (max-width:
+340px){
+    .background_img h2{
+        font-size:40px;
+    }
+}
